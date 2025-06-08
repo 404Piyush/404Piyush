@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Piyush Utkar<br>🔹 Java Developer | MERN Stack Developer<br>📚 Second-year Computer Engineering Student<br><br>I enjoy building efficient and clean code focusing on Java development and full-stack web applications using the MERN stack (MongoDB, Express.js, React, Node.js). I'm passionate about solving problems, learning new technologies, and contributing to open-source projects.<br><br>Feel free to check out my projects!
+👋 Hi, I'm Piyush Utkar<br>🔹 Developer<br>📚 Second-year Computer Engineering Student<br><br>I enjoy building efficient and clean code focusing on Java development and full-stack web applications using the MERN stack (MongoDB, Express.js, React, Node.js). I'm passionate about solving problems, learning new technologies, and contributing to open-source projects.<br><br>Feel free to check out my projects!
 
 
 ## 🌐 Socials:
