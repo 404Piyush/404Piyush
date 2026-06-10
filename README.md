@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Building+Layer-2+blockchains+%F0%9F%9A%80;Shipping+DeFi+protocols+%26+smart+contracts+%E2%9C%A8;Crafting+Discord+bot+experiences+%F0%9F%A4%96;Full-stack+apps+with+the+MERN+stack+%F0%9F%8C%90;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://github.com/404Piyush)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Building+Layer-2+blockchains+%F0%9F%9A%80;Shipping+DeFi+protocols+%26+smart+contracts+%E2%9C%A8;Crafting+Discord+bot+experiences+%F0%9F%A4%96;End-to-end+full-stack+systems+%F0%9F%8C%90;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://github.com/404Piyush)
 
 <br/>
 
