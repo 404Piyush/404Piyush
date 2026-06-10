@@ -43,11 +43,22 @@ I'm a multi-language developer who treats every project like a system to be unde
 
 ---
 
-## 🏆 Trophy Case
+## 🏆 Achievements
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=404Piyush&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/404Piyush)
+<img src="https://img.shields.io/badge/🐍_20+_Public_Repos-1a1b26?style=for-the-badge&logo=github&logoColor=7aa2f7&labelColor=1a1b26" alt="20+ Public Repos"/>
+<img src="https://img.shields.io/badge/⛓️_L2_Builder-1a1b26?style=for-the-badge&logo=ethereum&logoColor=bb9af7&labelColor=1a1b26" alt="L2 Builder"/>
+<img src="https://img.shields.io/badge/🌐_DeFi_Shipped-1a1b26?style=for-the-badge&logo=ethereum&logoColor=7aa2f7&labelColor=1a1b26" alt="DeFi Shipped"/>
+<img src="https://img.shields.io/badge/🤖_Bot_Developer-1a1b26?style=for-the-badge&logo=discord&logoColor=c0caf5&labelColor=1a1b26" alt="Bot Developer"/>
+<img src="https://img.shields.io/badge/🧠_AI_Integrated-1a1b26?style=for-the-badge&logo=tensorflow&logoColor=ff9e64&labelColor=1a1b26" alt="AI Integrated"/>
+<img src="https://img.shields.io/badge/🚀_Upwork_Rising_Talent-1a1b26?style=for-the-badge&logo=upwork&logoColor=6fda44&labelColor=1a1b26" alt="Upwork Rising Talent"/>
+<img src="https://img.shields.io/badge/💻_7+_Languages-1a1b26?style=for-the-badge&logo=codecademy&logoColor=9ece6a&labelColor=1a1b26" alt="7+ Languages"/>
+<img src="https://img.shields.io/badge/🪙_Solana_Builder-1a1b26?style=for-the-badge&logo=solana&logoColor=9945ff&labelColor=1a1b26" alt="Solana Builder"/>
+<img src="https://img.shields.io/badge/🖥️_Desktop_+_Web-1a1b26?style=for-the-badge&logo=windowsterminal&logoColor=7aa2f7&labelColor=1a1b26" alt="Desktop + Web"/>
+<img src="https://img.shields.io/badge/🏗️_From_Scratch-1a1b26?style=for-the-badge&logo=git&logoColor=bb9af7&labelColor=1a1b26" alt="From Scratch"/>
+<img src="https://img.shields.io/badge/🧪_FastAPI_+_Next.js-1a1b26?style=for-the-badge&logo=fastapi&logoColor=009485&labelColor=1a1b26" alt="FastAPI + Next.js"/>
+<img src="https://img.shields.io/badge/⚙️_GPU_Programming-1a1b26?style=for-the-badge&logo=nvidia&logoColor=76b900&labelColor=1a1b26" alt="GPU Programming"/>
 
 </div>
 
