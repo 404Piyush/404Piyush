@@ -241,13 +241,9 @@ A **developer observability platform** — FastAPI backend, Next.js 15 frontend,
 
 <div align="center">
 
-<!-- WakaTime card - only renders if WakaTime is connected -->
-<!-- Set WAKATIME_USERNAME=404Piyush once you connect WakaTime to your GitHub account -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=404Piyush&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=c0caf5&layout=compact" alt="WakaTime Stats" onerror="this.style.display='none'"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=404Piyush&theme=tokyo-night&hide_border=true&bg_color=1a1b26&color=7aa2f7&line=bb9af7&point=c0caf5&area=true&area_color=bb9af7&custom_title=Contribution%20Activity" alt="Activity Graph"/>
 
 <br/>
-
-<sub>💡 Connect <a href="https://wakatime.com"><b>WakaTime</b></a> to your GitHub account to populate the card above automatically.</sub>
 
 </div>
 
