@@ -13,6 +13,7 @@
 <img src="https://komarev.com/ghpvc/?username=404Piyush&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 <img src="https://img.shields.io/badge/💼_Available_for_Freelance-1a1b26?style=for-the-badge&logo=upwork&logoColor=14a800&labelColor=1a1b26" alt="Available for Freelance"/>
+<a href="https://404piyush.me"><img src="https://img.shields.io/badge/🌐_404piyush.me-1a1b26?style=for-the-badge&logo=google-chrome&logoColor=7aa2f7&labelColor=1a1b26" alt="Portfolio"/></a>
 
 </div>
 
@@ -266,6 +267,7 @@ A **developer observability platform** — FastAPI backend, Next.js 15 frontend,
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/404piyush.me-1a1b26?style=for-the-badge&logo=google-chrome&logoColor=7aa2f7&labelColor=1a1b26)](https://404piyush.me)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/404piyush)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/piyush-utkar-0489b12b2)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/PiyushUtkar)
@@ -281,7 +283,7 @@ A **developer observability platform** — FastAPI backend, Next.js 15 frontend,
 ### 💼 Got a project in mind?
 
 **I take on selected freelance work** — full-stack apps, Web3 / DeFi products, Discord bots, and AI integrations.  
-Let's talk → **[Upwork](https://www.upwork.com/freelancers/404piyush)** · rising talent · fast turnaround
+See my work → **[404piyush.me](https://404piyush.me)** · or let's talk on **[Upwork](https://www.upwork.com/freelancers/404piyush)** · rising talent · fast turnaround
 
 <sub>⚡ Fun fact: I can debug in 7 different languages and still default to <code>console.log</code>.</sub>
 
